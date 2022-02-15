@@ -4,7 +4,7 @@
 ## 작성 방식
 
 - mmdd/SiteName/Pnum/Pnum_성.java 형태로 파일 업로드
-- 커밋메시지 "solve : Pnum" 으로 통일
+- 커밋메시지 "solve : Pnum_성" 으로 통일
 
 
 ## 규칙
